@@ -1,0 +1,58 @@
+.bg {
+  background-image: url(../../Assests/images/Group1.png);
+height: 720px;
+  background-repeat: no-repeat;
+}
+.content {
+  position: relative;
+  top: 30%;
+  
+}
+.welcome {
+  font-size: 36px;
+  font-weight: 400;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  display: grid;
+  justify-content: center;
+}
+.clg {
+  font-size: 50px;
+  font-weight: bold;
+}
+.home {
+  display: grid;
+  grid-template-columns: 1fr 3fr 4fr;
+}
+.t1 {
+  display: grid;
+  justify-content: start;
+  color: #fd5956;
+  font-size: 28px;
+  font-weight: 700;
+}
+.t2 {
+  color: #000000;
+  font-size: 56px;
+  font-weight: 700;
+}
+.t2-1 {
+  display: grid;
+  justify-content: start;
+}
+.t2-2 {
+  display: grid;
+  justify-content: center;
+}
+.t3 {
+  padding-top: 10px;
+  padding-right: 40px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-size: 16px;
+}
+.logo{
+position: absolute;
+top: -150px;
+left: 40%;
+}

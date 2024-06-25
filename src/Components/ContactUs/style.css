@@ -1,0 +1,91 @@
+.contact {
+  display: grid;
+  grid-template-columns: 2.5fr 0.5fr 2.5fr;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  box-shadow: 2px 2px 5px 5px #88888823;
+}
+.contact-body {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  padding-top: 25px;
+}
+.contact-left {
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
+
+  width: 500px;
+  background-color: rgb(255, 255, 255);
+}
+.contact-right {
+  padding-right: 20px;
+
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 500px;
+  background-color: rgba(255, 255, 255, 0.562);
+  border-top-right-radius: 25px;
+  border-bottom-right-radius: 25px;
+  padding: 20px;
+  text-align: center;
+  display: grid;
+  align-items: center;
+}
+
+.form-label {
+  padding-left: 5px;
+  font-size: 14px;
+}
+.placemnt-header-2 {
+  display: grid;
+  justify-content: center;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-size: 46px;
+  font-weight: 600;
+  margin-top: 150px;
+  text-transform: capitalize;
+}
+.btn {
+  width: 400px;
+  background-color: #33b248;
+  font-weight: 600;
+}
+.btn-pos {
+  display: grid;
+  justify-content: center;
+}
+.contactus {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  font-size: 36px;
+}
+.h1 {
+  font-size: 22px;
+  font-weight: 600;
+}
+.h2 {
+  font-size: 14px;
+}
+.h3 {
+  font-size: 20px;
+  color: red;
+}
+.contact-logo {
+  height: 240px;
+  width: 450px;
+  border-radius: 25px;
+  background-color: white;
+  background-image: url(../../Assests/images/Sams.png);
+  background-repeat: no-repeat;
+}
+.gaping {
+  padding-bottom: 20px;
+}

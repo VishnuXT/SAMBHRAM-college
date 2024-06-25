@@ -1,0 +1,36 @@
+.placemnt {
+  display: grid;
+  grid-template-columns: 1fr 8fr 1fr;
+}
+.placemnt-header {
+  display: grid;
+  justify-content: left;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-size: 30px;
+  font-weight: 600;
+}
+.placemnt-header-1 {
+  display: grid;
+  justify-content: center;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-size: 46px;
+  font-weight: bolder;
+  margin-top: 150px;
+  text-transform: capitalize;
+}
+.placemnt-content {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.placemntborder {
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-top: 20px;
+}
+.faci{
+  padding-top: 25px;
+}

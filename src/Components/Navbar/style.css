@@ -1,0 +1,32 @@
+.nav-css {
+  height: 100px;
+  padding: 40px;
+  background-color: white;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+.navbar-nav {
+  font-size: 16px;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+}
+
+.total {
+  display: flex;
+  flex-wrap: wrap;
+}
+.navbar-loc {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  cursor: pointer;
+}
+.nav-link:hover {
+  border-bottom: 4px solid;
+  font-size: 18px;
+  font-weight: 700;
+}
