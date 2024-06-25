@@ -72,7 +72,7 @@ const Course = () => {
             </div>
           </div>
         </div>
-
+        <div></div>
         <div>
           <div class="card">
             <img src={ba} class="card-img-top" alt="clg" height={300} />

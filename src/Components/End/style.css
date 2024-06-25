@@ -1,0 +1,21 @@
+.footer {
+  display: flex;
+  background-color: rgb(182, 182, 182);
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.footer-logo {
+  gap: 15px;
+  display: flex;
+}
+.footer-main-logo {
+  display: flex;
+  padding-left: 20px;
+}
+.footerpad {
+  padding-left: 10px;
+}

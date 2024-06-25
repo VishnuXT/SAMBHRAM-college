@@ -6,7 +6,7 @@ import Course from "./Components/Course/Indexcourse";
 import Contactpage from "./Components/ContactUs";
 import Placemnt from "./Components/Placement";
 import Facilities from "./Components/Facilities";
-
+import End from "./Components/End";
 
 function App() {
   return (
@@ -19,6 +19,7 @@ function App() {
       <Placemnt />
       <Facilities />
       <Contactpage />
+      <End />
     </div>
   );
 }

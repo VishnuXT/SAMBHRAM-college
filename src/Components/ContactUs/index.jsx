@@ -13,7 +13,7 @@ const Contactpage = () => {
             <label for="" class="form-label">
               Name
             </label>
-            
+
             <input
               type="text"
               class="form-control"
@@ -25,7 +25,7 @@ const Contactpage = () => {
             <label for="" class="form-label">
               Phone
             </label>
-         
+
             <input
               type="text"
               class="form-control"
@@ -62,7 +62,7 @@ const Contactpage = () => {
             <label for="" class="form-label">
               Subject
             </label>
-         
+
             <textarea
               name=""
               id=""
@@ -86,7 +86,7 @@ const Contactpage = () => {
             <div className="contact-logo"></div>
           </div>
           <br />
-          <div className="h1">SAMBHRAM INSTITUTE OF TECHNOLOGY</div>
+          <div className="h1">SAMBHRAM ACADEMY OF MANAGEMENT STUDIES</div>
           <br />
           <div className="h2">
             <div>
@@ -103,12 +103,11 @@ const Contactpage = () => {
             <div>E-mail: sait@sambhram.org</div>
           </div>
           <div className="h3">
-            <p>Principal Dr. H G Chandrakanth</p>
+            <p>Principal Dr. K Srinivas Rao (Rtd Wing Commander)</p>
           </div>
         </div>
       </div>
       <br />
-      
     </div>
   );
 };
